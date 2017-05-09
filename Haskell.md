@@ -1,5 +1,5 @@
 [//]: # (http://www.seas.upenn.edu/~cis194/spring13/docs/style.pdf)
-#Good Haskell Style
+## Good Haskell Style
 
 • DO use camelCase for function and variable names.
 
