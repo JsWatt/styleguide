@@ -41,3 +41,6 @@ that do one thing, and compose them to create more complex functions.
 
 • DO make all your functions total. That is, they should give sensible
 results (and not crash) for every input.
+
+
+## this is a starting point from [CIS 194](http://www.seas.upenn.edu/~cis194/spring13/docs/style.pdf)
