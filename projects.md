@@ -4,15 +4,15 @@
 
 * projects need to have documentation
 
-== documentation 
+==     documentation 
 - projects should have a readme that serves a documentation
 
 
-== tests 
+==     tests 
 - Tests are more important when trying to solve a problem than when documenting
 
 
-== change log 
+==     change log 
 - document the change
 
 
