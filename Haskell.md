@@ -4,17 +4,12 @@
 • DO use camelCase for function and variable names.
 
 • DO use descriptive function names, which are as long as they need to
-be but no longer than they have to be. Good: solveRemaining. Bad:
-slv. Ugly: solveAllTheCasesWhichWeHaven’tYetProcessed.
+be but no longer than they have to be.
 
 • DON’T use tab characters. Haskell is layout-sensitive and tabs Mess
-Everything Up. I don’t care how you feel about tabs when coding in
-other languages. Just trust me on this one. Note this does not mean
-you need to hit space a zillion times to indent each line; your Favorite
-Editor ought to support auto-indentation using spaces instead of tabs.
+Everything Up.
 
-• DO try to keep every line under 80 characters. This isn’t a hard and
-fast rule, but code that is line-wrapped by an editor looks horrible.
+• DO try to keep every line under 80 characters.
 
 • DO give every top-level function a type signature. Type signatures
 enhance documentation, clarify thinking, and provide nesting sites for
