@@ -2,15 +2,14 @@
 
 * code that does something should have its own project
 
-* projects need to have documentation
-
 ==     documentation 
-- projects should have a readme that serves a documentation
+- projects need to have documentation
 
 
 ==     tests 
-- Tests are more important when trying to solve a problem than when documenting
-
+- Test while coding
+- use tests to challange assumptions
+- do not use tests as documentation
 
 ==     change log 
 - document the change
@@ -19,6 +18,6 @@
 
 
 
-* other stuff - 
+* this is rough
 
 
