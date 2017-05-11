@@ -6,8 +6,12 @@
 
 == documentation 
 - projects should have a readme that serves a documentation
+
+
 == tests 
 - Tests are more important when trying to solve a problem than when documenting
+
+
 == change log 
 - document the change
 
