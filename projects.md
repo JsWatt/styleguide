@@ -11,6 +11,8 @@ The reason I'm considering this is because projects should stand on their own, b
 
 * projects need to have documentation
 
-* not all projects need tests
+* documentation > tests > change log; importance in order
 
 * 
+
+
