@@ -1,5 +1,4 @@
-# Here I create some guidelines around how I'm going to use git and github
-
+# Here I create some guidelines and try to create a workflow to define how projects should be structured.
 * I'm going to experiment with when i should create a project vs when I shouldn't
 
 Currently I'm using [Free Parking]() as a repo to test out ideas/projects. 
@@ -9,3 +8,9 @@ Currently I'm using [Free Parking]() as a repo to test out ideas/projects.
 The reason I'm considering this is because projects should stand on their own, but the reason for having one big project is to minimize the amount of dead and useless projects I have on github.
 
 * code that does something can have its own project
+
+* projects need to have documentation
+
+* not all projects need tests
+
+* 
