@@ -2,7 +2,7 @@
 
 * the point of the below is to figure out how to make my projects more accessible 
 
-* I'll be removing the actual D3 example when I get the chance to actually use this on a project, and then I'll replace with my own code
+* I'll be removing the actual D3 example when I get the chance to use this on a project, and then I'll replace with my own code
 
 ##structure
 
